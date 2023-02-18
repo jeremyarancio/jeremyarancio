@@ -1,5 +1,9 @@
 ## 👋 Hi, I’m @Jérémy!
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-arancio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anomaddatascientist/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeremyarancio)
+
 ### 🦸‍♂️ Who am I?
 After +5 years as a research engineer in France 🐓, I decided in October 2021 to leave everything and start my **entrepreneurial activity**, **learn programming from scratch**, and work with companies **around the world** 🌍.
 
