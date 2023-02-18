@@ -7,7 +7,7 @@ I document my adventure on **social media**. I tell my story and experience thro
 
 I see life as an **epic adventure**, where I am the hero of my own story, seeking to gain experience points in the range of skills that characterize me.
 
-### 🧰 My skills
+### 💻 Tech
 
 ![My Skills](https://skillicons.dev/icons?i=python,pytorch,matlab,linux,docker,git,gitlab)
 
@@ -34,7 +34,6 @@ And more...
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/3" alt="Recent Article 3">
 
 ### Want to work with me, reach me!
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeremy-arancio/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/JeremyArancio)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/anomaddatascientist/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-arancio/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jeremyarancio) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anomaddatascientist/)
