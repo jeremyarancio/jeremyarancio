@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @Jérémy!
 
 ### 🦸‍♂️ Who am I?
-After more than 5 years as a research engineer in France, I decided in October 2021 to leave everything and start my **entrepreneurial activity**, **learn programming from scratch**, and work with companies **around the world** 🌍.
+After +5 years as a research engineer in France 🐓, I decided in October 2021 to leave everything and start my **entrepreneurial activity**, **learn programming from scratch**, and work with companies **around the world** 🌍.
 
 I document my adventure on **social media**. I tell my story and experience through **podcasts** and **conferences**.
 
@@ -18,7 +18,7 @@ Are you looking for NLP and Artificial Intelligence expertise to take your offer
 
 Do you have a team of programmers who needs a new teammate?
 
-I might be the person who can help you! 👨‍💻
+👉 I might be the person who can help you! 👨‍💻
 
 For my clients around the world, I have:
 
@@ -33,7 +33,5 @@ And more...
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/3" alt="Recent Article 3">
 
-### Want to work with me, reach me!
+### 📫 Want to work with me, contact me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-arancio/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jeremyarancio) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anomaddatascientist/)
