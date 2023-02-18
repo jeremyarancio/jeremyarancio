@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @Jérémy!
 
 ### 🦸‍♂️ Who am I?
-After more than 5 years as a research engineer in France, I decided in October 2021 to leave everything and start my **entrepreneurial activity**, **learn Data Science from scratch**, and work with companies **around the world** 🌍.
+After more than 5 years as a research engineer in France, I decided in October 2021 to leave everything and start my **entrepreneurial activity**, **learn programming from scratch**, and work with companies **around the world** 🌍.
 
 I document my adventure on **social media**. I tell my story and experience through **podcasts** and **conferences**.
 
