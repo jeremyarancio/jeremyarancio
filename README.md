@@ -35,7 +35,7 @@ And more...
 
 ### I write articles too
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/3" alt="Recent Article 3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/0" alt="Recent Article 0">
 
 ### 📫 Want to work with me, contact me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-arancio/)
