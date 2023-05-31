@@ -13,7 +13,7 @@ I see life as an **epic adventure**, where I am the hero of my own story, seekin
 
 ### 💻 Tech
 
-![My Skills](https://skillicons.dev/icons?i=python,pytorch,matlab,linux,docker,git,gitlab)
+![My Skills](https://skillicons.dev/icons?i=python,pytorch,matlab,linux,docker,git,gitlab, github, )
 
 ### 👨‍💻 What can I do for you?
 Are you a digital company building innovative products?
