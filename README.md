@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m @Jérémy!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-arancio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anomaddatascientist/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeremyarancio)
 
 ### 🦸‍♂️ Who am I?
@@ -16,6 +15,3 @@ I see life as an **epic adventure**, where I am the hero of my own story, seekin
 ![My Skills](https://skillicons.dev/icons?i=python,pytorch,matlab,linux,docker,git,gitlab,github)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/0" alt="Recent Article 0">
-
-### 📫 Want to work with me, contact me!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-arancio/)
