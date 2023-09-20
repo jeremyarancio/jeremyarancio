@@ -15,26 +15,6 @@ I see life as an **epic adventure**, where I am the hero of my own story, seekin
 
 ![My Skills](https://skillicons.dev/icons?i=python,pytorch,matlab,linux,docker,git,gitlab,github)
 
-### 👨‍💻 What can I do for you?
-Are you a digital company building innovative products?
-
-Are you looking for NLP and Artificial Intelligence expertise to take your offering to the next level?
-
-Do you have a team of programmers who needs a new teammate?
-
-👉 I might be the person who can help you! 👨‍💻
-
-For my clients around the world, I have:
-
- * 📄 Automated information extraction from legal documents and contracts through an API created within an IT team,
- * 🤖 Built an intelligent assistant to chat with to learn everything about documents,
- * ✍️ Written articles popularizing the latest technological innovations and methods around NLP,
- * 💵 Won a multi-million contract with a team of sales as the NLP expert,
- 
-And more...
-
-### I write articles too
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/0" alt="Recent Article 0">
 
 ### 📫 Want to work with me, contact me!
