@@ -16,7 +16,7 @@ I see life as an **epic adventure**, where I am the hero of my own story, seekin
 
 ![My Skills](https://skillicons.dev/icons?i=py,pytorch,linux,docker,aws,gcp,fastapi,postgres,ts,react)
 
-### Blog posts
+### 📰 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How Did Open Food Facts Fix OCR-Extracted Ingredients Using Open-Source LLMs?](https://towardsdatascience.com/how-did-open-food-facts-use-open-source-llms-to-enhance-ingredients-extraction-d74dfe02e0e4?source=rss-7a4c4019f28e------2)
 - [DuckDB &amp; Open Food Facts: the largest open food database in the palm of your hand](https://medium.com/@jeremyarancio/duckdb-open-food-facts-the-largest-open-food-database-in-the-palm-of-your-hand-0d4ab30d0701?source=rss-7a4c4019f28e------2)
