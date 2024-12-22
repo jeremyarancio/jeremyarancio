@@ -10,8 +10,12 @@ I document my adventure on **social media**. I tell my story and experience thro
 
 I see life as an **epic adventure**, where I am the hero of my own story, seeking to gain experience points in the range of skills that characterize me.
 
+
+
 ### 💻 Tech
 
-![My Skills](https://skillicons.dev/icons?i=python,pytorch,matlab,linux,docker,git,gitlab,github)
+![My Skills](https://skillicons.dev/icons?i=py,pytorch,linux,docker,aws,gcp,fastapi,postgres,ts,react)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jeremyarancio/0" alt="Recent Article 0">
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
