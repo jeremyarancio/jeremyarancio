@@ -18,9 +18,9 @@ I see life as an **epic adventure**, where I am the hero of my own story, seekin
 
 ### 📰 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How Did Open Food Facts Fix OCR-Extracted Ingredients Using Open-Source LLMs?](https://towardsdatascience.com/how-did-open-food-facts-use-open-source-llms-to-enhance-ingredients-extraction-d74dfe02e0e4?source=rss-7a4c4019f28e------2)
+- [How Did Open Food Facts Fix OCR-Extracted Ingredients Using Open-Source LLMs?](https://medium.com/towards-data-science/how-did-open-food-facts-use-open-source-llms-to-enhance-ingredients-extraction-d74dfe02e0e4?source=rss-7a4c4019f28e------2)
 - [DuckDB &amp; Open Food Facts: the largest open food database in the palm of your hand](https://medium.com/@jeremyarancio/duckdb-open-food-facts-the-largest-open-food-database-in-the-palm-of-your-hand-0d4ab30d0701?source=rss-7a4c4019f28e------2)
-- [Parse Your Invoices with LayoutLM and Label Studio](https://towardsdatascience.com/parse-your-invoices-with-layoutlm-and-label-studio-6055ce3c14fe?source=rss-7a4c4019f28e------2)
-- [Scale your Machine Learning Projects  with SOLID principles](https://towardsdatascience.com/scale-your-machine-learning-projects-with-solid-principles-824230fa8ba1?source=rss-7a4c4019f28e------2)
-- [Build Machine Learning Pipelines with Airflow and Mlflow: Reservation Cancellation Forecasting](https://towardsdatascience.com/build-machine-learning-pipelines-with-airflow-and-mlflow-reservation-cancellation-forecasting-da675d409842?source=rss-7a4c4019f28e------2)
+- [Parse Your Invoices with LayoutLM and Label Studio](https://medium.com/towards-data-science/parse-your-invoices-with-layoutlm-and-label-studio-6055ce3c14fe?source=rss-7a4c4019f28e------2)
+- [Scale your Machine Learning Projects  with SOLID principles](https://medium.com/towards-data-science/scale-your-machine-learning-projects-with-solid-principles-824230fa8ba1?source=rss-7a4c4019f28e------2)
+- [Build Machine Learning Pipelines with Airflow and Mlflow: Reservation Cancellation Forecasting](https://medium.com/towards-data-science/build-machine-learning-pipelines-with-airflow-and-mlflow-reservation-cancellation-forecasting-da675d409842?source=rss-7a4c4019f28e------2)
 <!-- BLOG-POST-LIST:END -->
