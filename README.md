@@ -3,13 +3,34 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-arancio/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeremyarancio)
 
-### 🦸‍♂️ Who am I?
-After +5 years as a research engineer in France 🐓, I decided in October 2021 to leave everything and start my **entrepreneurial activity**, **learn programming from scratch**, and work with companies **around the world** 🌍.
+Are you looking for an expert in ML, NLP, and MLOps?  
+Are you struggling to integrate and scale your LLMs in production?  
+Do you want to gain more control and better performances over your AI features?
 
-I document my adventure on **social media**. I tell my story and experience through **podcasts** and **conferences**.
+I can help you.
 
-I see life as an **epic adventure**, where I am the hero of my own story, seeking to gain experience points in the range of skills that characterize me.
+I'm a Machine Learning Engineer with over 8 years of experience.  
+I worked with various industries and companies such as EDF, Saint-Gobain, Safran, or open-source projects like Open Food Facts.
 
+Over my career, I achieved the followings:
+ 
+ 🚢 Improved document parsing for a Shipping Insurance Leader in Europe. The quality of extraction went from 42% to 92%. I used NLP techniques such as Name Entity Recognition or Text Classification.
+
+ 🍊 Increased by 11% the number of identified ingredients in the Open Food Facts database. The solution consists in a fine-tuned open-source LLM. The deployed feature costs 100x times less than GPT-4o.
+
+ ✨ Led the development of a Recommender System for an American Start-Up. Its purpose? To propose the best incubators to company founders. 
+
+I can help you to:
+
+ - Develop scalable and high quality AI/ML solutions,
+ - Ensure error-free and efficient deployments of ML models,
+ - Design and build APIs,
+ - Deploy an infrastructure to serve models at scale,
+ - Optimize ML models running in production for better performance, memory, and throughput.
+
+Want to discuss a project?  
+Contact me by email at: [jeremyarancio@gmail.com](jeremyarancio@gmail.com).  
+Or directly on [LinkedIn](https://www.linkedin.com/in/jeremy-arancio/).
 
 
 ### 💻 Tech
